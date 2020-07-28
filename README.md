@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/AndresSepar/kmt901/blob/master/app_development.png?raw=true" alt="Full-stack, Front-end, Backend" width=350px height=465px/>
+<img align="right" src="https://github.com/AndresSepar/AndresSepar/blob/master/app_development.png?raw=true" alt="Full-stack, Front-end, Backend" width=350px height=465px/>
 
 # Hi there 🖖🏻, I'm Andres Separ 👨🏻‍💻
 
