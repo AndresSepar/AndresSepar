@@ -2,24 +2,24 @@
 
 # Hi there 🖖🏻, I'm Andres Separ 👨🏻‍💻
 
-I’m a Senior Full-stack developer.
+Your Senior Full-stack developer.
 
-> I'm Creative / Dreamer / Passionate coder / Tech lover / To sum it all up… I do everything with passion! 
+> I am very creative / A Big Dreamer / Passionate for Coding / A Tech Geek / In a nutshell, everything I do flows out of my passion!
 
-### I have high knowledge in `Backend/Front-End/Mobile`:
-- I provide IT services for web environments `Linux/Docker`
-- I make and integrate API’s `//Backend`
-- I develop web platforms `//Front-End`
-- I can create hybrid applications `Cross-platform`
-- I have the ability to `lead and train` development teams.
+### With advanced knowledge and experience in `Mobile / Backend / Front-End`. I am able to provide you with the following:
+- IT Services for Web Environments `Linux/Docker`
+- API Integration `Backend`
+- Web Platforms Development `Front-End`
+- Creation of Hybrid Apps `Cross-platform`
+- `Leadership Skills` and ability to `Train Developers Teams`.
 
-### I am specialized in:
+### Areas of Expertise
 - [x] HTML5, CSS3 `SASS/LESS/Stylus`
 - [x] Javascript `VueJS/Angular/ReactJS/VanillaJS / JQuery`
 - [x] Task automation with `WebPack / Gulp / Grunt`
 - [x] Backend with `NodeJS & MongoDB / PHP & MySQL`
 
-## Find me around the web: <a href="https://github.com/sponsors/AndresSepar"><img align="left" width="150" height="150" src="https://github.com/AndresSepar/AndresSepar/blob/master/octocat.gif?raw=true"></a>
-- Making suggestions in <a href="https://www.twitter.com/AndresSepar">Twitter</a>
-- Tinkering with interactions on <a href="https://codepen.io/AndresSepar"> Codepen</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/AndresSepar">LinkedIn</a>
+## Want to know me more?  Follow me: <a href="https://github.com/sponsors/AndresSepar"><img align="left" width="150" height="150" src="https://github.com/AndresSepar/AndresSepar/blob/master/octocat.gif?raw=true"></a>
+- On <a href="https://www.twitter.com/AndresSepar">Twitter</a> posting suggestions and advise.
+- On <a href="https://codepen.io/AndresSepar"> Codepen</a> with Tinkering interactions.
+- On <a href="https://www.linkedin.com/in/AndresSepar">LinkedIn</a> with Updates and News.
