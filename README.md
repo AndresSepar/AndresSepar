@@ -16,7 +16,7 @@ Your Senior Full-stack developer.
 ### Areas of Expertise
 - [x] HTML5, CSS3 `SASS/LESS/Stylus`
 - [x] Javascript `VueJS/Angular/ReactJS/VanillaJS / JQuery`
-- [x] Task automation with `WebPack / Gulp / Grunt`
+- [x] Task automation with `WebPack  / Rollup / Gulp`
 - [x] Backend with `NodeJS & MongoDB / PHP & MySQL`
 
 ## Want to know me more?  Follow me: <a href="https://github.com/sponsors/AndresSepar"><img align="left" width="150" height="150" src="https://github.com/AndresSepar/AndresSepar/blob/master/octocat.gif?raw=true"></a>
