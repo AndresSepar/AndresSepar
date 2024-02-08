@@ -4,7 +4,7 @@
 
 Your Senior Full-stack developer.
 
-> I'm a big dreamer, passionate for coding and a tech geek. In a nutshell, everything I do flows out of my passion!
+> I'm a big dreamer, passionate about coding and a tech geek. In a nutshell, everything I do flows out of my passion!
 
 ### With advanced knowledge and experience in `Mobile / Backend / Front-End`. I am able to provide you with the following:
 - IT Services for Web Environments `Linux/Docker`
